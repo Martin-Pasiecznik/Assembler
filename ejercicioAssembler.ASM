@@ -1,6 +1,6 @@
 ;Escribir un programa que solicite el ingreso de un número (de un dígito) por teclado y muestre en pantalla dicho
-número expresado en letras. Luego que solicite el ingreso de otro y asI sucesivamente. Se debe finalizar la ejecución al
-ingresarse en dos vueltas consecutivas el número cero.
+;número expresado en letras. Luego que solicite el ingreso de otro y asI sucesivamente. Se debe finalizar la ejecución al
+;ingresarse en dos vueltas consecutivas el número cero.
 
 ORG 1000H
 MSJ DB "INGRESE UN NUMERO:"
